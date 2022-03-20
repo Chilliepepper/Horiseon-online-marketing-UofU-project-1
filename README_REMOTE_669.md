@@ -8,6 +8,6 @@ There are 4 <div></div> elements I was not able to find a satifactory alternativ
 
 Here is the referense picture I was working from: <img src="Develop\assets\images\01-html-css-git-homework-demo.png">.
 
-Here is the link to the deployed applicaton: <a href=http://127.0.0.1:5502/Develop/index.html>Placeholder</a>
+Here is the link to the deployed applicaton: <a href=http://127.0.0.1:5502/Develop/index.html>Horiseon Online Marketing</a>
 
 I used the MIT license
